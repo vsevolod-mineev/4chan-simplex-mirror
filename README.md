@@ -5,7 +5,7 @@ We are looking to replicate every board of the archetypal imageboard [4chan](htt
 ![4chan_main](https://user-images.githubusercontent.com/11165220/224705495-b823e5f3-205a-4867-b9c5-abb7e835067d.png)
 
 Please get in-touch with me directly if you are a content collector or qualify to admin a selection of boards:
-[My SimpleX Address](https://simplex.chat/contact#/?v=1&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FMtQrubMgP6ytJ9jghleOC5KHeaX5fMYS%23%2F%3Fv%3D1%26dh%3DMCowBQYDK2VuAyEAm6j3psqPlOb8WRoypy6LKU_xWHpZNA-J90EITPsePmg%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion)
+[SimpleX Address](https://simplex.chat/contact#/?v=1&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FMtQrubMgP6ytJ9jghleOC5KHeaX5fMYS%23%2F%3Fv%3D1%26dh%3DMCowBQYDK2VuAyEAm6j3psqPlOb8WRoypy6LKU_xWHpZNA-J90EITPsePmg%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion)
 
 # Boards:
 
