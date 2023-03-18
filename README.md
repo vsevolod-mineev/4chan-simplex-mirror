@@ -9,7 +9,7 @@ Please get in-touch with me directly if you are a content collector or qualify t
 
 # Boards:
 
-[/a/ - Anime & Manga](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FCQwhtDIyVIH_mmtxgmJ-rOyuTus1Jl_u%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA90LhBSSFRQhPFoYNWSEVDLwzYwUGdWYTsJjddOQpmjM%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22iWSRpnrVsT_gTeY-pGHohg%3D%3D%22%7D)
+[/a/ - Anime & Manga](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FkioRQQ1WpfIoCqxXPIJiAsczwDtHcIzI%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAJ42QEcl2JRm8z2asvlpBiHHNCD1qRUodyQ_xJq9jdkQ%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22TqEKF7aPtxpbcYe9DEvbRA%3D%3D%22%7D)
 
 [/b/ - Random](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2Fa05kue35b0CMKublSIUJfEN_Ampg_JJS%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAsoojlBV--i07NSTjyHAJTgOh5dniWesZTEslToBsu2M%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22Ok1B6MyJV7UjgPlmOSsQ5Q%3D%3D%22%7D)
 
